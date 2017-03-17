@@ -1,4 +1,4 @@
-cc.Class({ //测试版本管理GIT
+cc.Class({ //测试版本管理GIT 这是版本2
     extends: cc.Component,
 
     properties: {
