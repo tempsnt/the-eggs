@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thum_70",
+    "texture": "f96d4121-aff3-47d9-ae81-5ee1817bea8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      46
+    ]
+  }
+}

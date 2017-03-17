@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_food_4",
+    "texture": "faca2dc7-4f82-450e-bb0e-d619d0136050",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      60
+    ]
+  }
+}

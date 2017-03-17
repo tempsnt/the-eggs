@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_foodmenu_b",
+    "texture": "abc7b8f5-ad29-461f-be0d-1c128f6cbd7f",
+    "atlas": "",
+    "rect": [
+      0,
+      24,
+      90,
+      96
+    ],
+    "offset": [
+      0,
+      -12
+    ],
+    "originalSize": [
+      90,
+      120
+    ]
+  }
+}

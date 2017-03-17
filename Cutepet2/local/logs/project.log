@@ -1,0 +1,54 @@
+2017-03-16T06:58:08.690Z - normal: Load ~/.CocosCreator/settings.json
+2017-03-16T06:58:08.696Z - normal: checking language setting...
+2017-03-16T06:58:08.697Z - normal: Language: zh
+2017-03-16T06:58:09.791Z - success: protocol editor-framework registered
+2017-03-16T06:58:09.792Z - success: protocol app registered
+2017-03-16T06:58:09.792Z - success: protocol packages registered
+2017-03-16T06:58:09.792Z - success: protocol theme registered
+2017-03-16T06:58:09.792Z - success: protocol unpack registerred
+2017-03-16T06:58:10.195Z - normal: connected!
+2017-03-16T06:58:10.203Z - normal: Check project E:\cocos\CutePet\Cutepet2
+2017-03-16T06:58:10.210Z - normal: Initializing Cocos Creator Editor
+2017-03-16T06:58:10.656Z - normal: Initializing Cocos2d
+2017-03-16T06:58:10.878Z - normal: Initializing Asset Database
+2017-03-16T06:58:10.916Z - success: protocol uuid registerred
+2017-03-16T06:58:10.917Z - success: protocol db registerred
+2017-03-16T06:58:10.917Z - success: protocol thumbnail registerred
+2017-03-16T06:58:10.917Z - normal: Loading editor/builtin packages
+2017-03-16T06:58:11.074Z - success: assets loaded
+2017-03-16T06:58:11.077Z - success: builder loaded
+2017-03-16T06:58:11.081Z - success: hierarchy loaded
+2017-03-16T06:58:11.084Z - success: inspector loaded
+2017-03-16T06:58:11.086Z - success: keystore loaded
+2017-03-16T06:58:11.089Z - success: node-library loaded
+2017-03-16T06:58:11.092Z - success: preferences loaded
+2017-03-16T06:58:11.108Z - success: project-importer loaded
+2017-03-16T06:58:11.109Z - success: project-settings loaded
+2017-03-16T06:58:11.112Z - success: ui-kit loaded
+2017-03-16T06:58:11.119Z - success: ui-grid loaded
+2017-03-16T06:58:11.135Z - success: scene loaded
+2017-03-16T06:58:11.136Z - success: sprite-editor loaded
+2017-03-16T06:58:11.143Z - success: timeline loaded
+2017-03-16T06:58:11.143Z - normal: Loading builtin packages
+2017-03-16T06:58:11.147Z - success: asset-db-debugger loaded
+2017-03-16T06:58:11.148Z - success: code-editor loaded
+2017-03-16T06:58:11.148Z - success: color-picker loaded
+2017-03-16T06:58:11.164Z - success: console loaded
+2017-03-16T06:58:11.167Z - success: package-manager loaded
+2017-03-16T06:58:11.171Z - success: tester loaded
+2017-03-16T06:58:11.173Z - success: ui-kit-preview-extra loaded
+2017-03-16T06:58:11.174Z - success: ui-kit-preview loaded
+2017-03-16T06:58:11.176Z - success: ui-tree loaded
+2017-03-16T06:58:11.217Z - normal: Initializing project E:\cocos\CutePet\Cutepet2
+2017-03-16T06:58:11.220Z - normal: Loading packages
+2017-03-16T06:58:11.225Z - normal: Watching packages
+2017-03-16T06:58:11.241Z - normal: Run Application
+2017-03-16T06:58:14.499Z - success: preview server running at http://localhost:7456
+2017-03-16T06:58:20.461Z - normal: 1.3.2
+2017-03-16T07:01:24.278Z - warn: Should not set alpha via "color", set "opacity" please.
+2017-03-16T07:04:49.811Z - normal: Compiled successfully
+2017-03-16T07:05:49.542Z - normal: Compiled successfully
+2017-03-16T07:06:35.408Z - normal: Compiled successfully
+2017-03-16T07:10:49.686Z - warn: Should not set alpha via "color", set "opacity" please.
+2017-03-16T07:12:57.156Z - normal: Compiled successfully
+2017-03-16T07:14:20.220Z - info: shutdown preview server

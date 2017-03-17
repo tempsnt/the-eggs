@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caution_energy",
+    "texture": "d3b3adbb-2f9d-41b2-9c75-44d9d2c02285",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      265,
+      20
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      268,
+      20
+    ]
+  }
+}

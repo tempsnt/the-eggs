@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caution_99",
+    "texture": "bc915751-ade5-4e5a-b026-c1aff5ad7c21",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      213,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      217,
+      20
+    ]
+  }
+}

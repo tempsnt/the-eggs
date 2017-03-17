@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_thum_19",
+    "texture": "b4ddaead-f9d1-4932-a83d-f8b14661f68f",
+    "atlas": "",
+    "rect": [
+      48,
+      52,
+      158,
+      99
+    ],
+    "offset": [
+      -23,
+      -2.5
+    ],
+    "originalSize": [
+      300,
+      198
+    ]
+  }
+}

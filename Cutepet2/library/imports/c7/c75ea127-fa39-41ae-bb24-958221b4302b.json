@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yuge2",
+    "texture": "fb0b3415-a5e1-4c2c-9e01-a7a29219acaa",
+    "atlas": "",
+    "rect": [
+      23,
+      39,
+      58,
+      67
+    ],
+    "offset": [
+      7,
+      -12.5
+    ],
+    "originalSize": [
+      90,
+      120
+    ]
+  }
+}

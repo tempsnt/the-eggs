@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plv",
+    "texture": "9e82d2f9-da31-4390-b14d-ffe6a4e990f6",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      78,
+      27
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      80,
+      28
+    ]
+  }
+}

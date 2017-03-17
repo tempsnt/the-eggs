@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caution_using",
+    "texture": "2c00a8df-2b1a-4f17-a82b-298ad4d8c1e9",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      134,
+      25
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      136,
+      26
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mat_13",
+    "texture": "afffe6c0-984d-4f35-8c7b-088dea086c4e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      21
+    ],
+    "offset": [
+      -5,
+      0.5
+    ],
+    "originalSize": [
+      48,
+      22
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_timer_r",
+    "texture": "5470edac-4b73-444c-bae5-7769a4abf8ae",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      89,
+      119
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      90,
+      120
+    ]
+  }
+}

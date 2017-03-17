@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lv_lock",
+    "texture": "d2f491ab-52ed-44b8-b116-b992deb55e47",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      34,
+      12
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      12
+    ]
+  }
+}

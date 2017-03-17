@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bought",
+    "texture": "0ce375b2-064a-453d-a92e-d92add6c5e2f",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      92,
+      37
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      92,
+      40
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clean_pinset",
+    "texture": "f7635834-8178-4804-b563-fa4c35a727c4",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      117,
+      80
+    ],
+    "offset": [
+      -1.5,
+      -3
+    ],
+    "originalSize": [
+      120,
+      90
+    ]
+  }
+}

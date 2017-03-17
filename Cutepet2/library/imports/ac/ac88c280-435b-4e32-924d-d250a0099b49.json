@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "window_shop_pop",
+    "texture": "df2a39db-57cf-4a94-bed8-1f501cec1ce8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      198
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      198
+    ]
+  }
+}

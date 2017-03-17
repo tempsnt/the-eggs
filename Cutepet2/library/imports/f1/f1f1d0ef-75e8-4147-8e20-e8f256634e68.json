@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "energy_gage",
+    "texture": "b3f8b1f6-4421-482e-aa24-31eb09c62f34",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      130
+    ]
+  }
+}

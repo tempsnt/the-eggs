@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_shop1",
+    "texture": "1d1b469f-3e51-4691-88d1-b50e30d30ed6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      70
+    ]
+  }
+}

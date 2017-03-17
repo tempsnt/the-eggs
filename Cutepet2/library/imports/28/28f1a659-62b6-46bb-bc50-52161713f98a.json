@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gomi",
+    "texture": "f2725784-462f-4659-b582-129aa1b72b10",
+    "atlas": "",
+    "rect": [
+      2,
+      6,
+      97,
+      87
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

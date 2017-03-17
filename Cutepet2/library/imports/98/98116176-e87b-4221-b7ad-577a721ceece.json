@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_book_1",
+    "texture": "94155cd3-45b9-450e-b0ed-ac5842de5b6e",
+    "atlas": "",
+    "rect": [
+      16,
+      0,
+      78,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      110,
+      22
+    ]
+  }
+}

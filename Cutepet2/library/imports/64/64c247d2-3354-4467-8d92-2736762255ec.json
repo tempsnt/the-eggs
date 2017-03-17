@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caution_stone_use",
+    "texture": "4832b149-7790-4671-b3d5-4f28f7ea2130",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      187,
+      41
+    ],
+    "offset": [
+      1.5,
+      0.5
+    ],
+    "originalSize": [
+      192,
+      42
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "window_shop_3",
+    "texture": "db06865e-86ae-40cc-a37d-9849052911a8",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      320,
+      247
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      320,
+      250
+    ]
+  }
+}

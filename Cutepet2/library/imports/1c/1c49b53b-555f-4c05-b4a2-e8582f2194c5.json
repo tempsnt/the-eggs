@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_backgroud",
+    "texture": "91b4dced-d933-4c3b-93cd-fe00ec28112e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      29,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      29,
+      96
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "point_back",
+    "texture": "534308ea-dbaf-4389-a09c-cf87a4b669bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      320,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      40
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caution_point",
+    "texture": "8b84c5f7-f516-4fc0-a92e-c3696c0a4479",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      146,
+      19
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      150,
+      20
+    ]
+  }
+}

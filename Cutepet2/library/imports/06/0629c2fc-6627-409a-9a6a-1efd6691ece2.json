@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lv_bar",
+    "texture": "9de685e3-31fd-49cc-beeb-5ddbc9017292",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      12,
+      154
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      12,
+      154
+    ]
+  }
+}
