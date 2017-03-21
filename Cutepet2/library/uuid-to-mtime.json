@@ -3330,9 +3330,9 @@
     "relativePath": "Script\\Main"
   },
   "c7bcb781-d965-44c5-b97f-b89fa8893ad8": {
-    "asset": 1489646953132,
-    "meta": 1489646953231,
-    "relativePath": "Script\\Main\\MenuBar.js"
+    "asset": 1490089321499,
+    "meta": 1490089321567,
+    "relativePath": "Script\\Common\\MenuBar.js"
   },
   "0a1883e6-15e0-4f1a-aa03-4884da6f8bef": {
     "asset": 1489555817338,
@@ -3340,18 +3340,28 @@
     "relativePath": "Script\\Common"
   },
   "f67a23e2-30e2-4984-bba5-7d4534329e2b": {
-    "asset": 1490000011293,
-    "meta": 1490000011299,
+    "asset": 1490089560504,
+    "meta": 1490089560514,
     "relativePath": "Prefab\\MenuBar.prefab"
   },
   "ad8d3d43-01ed-437a-88b4-f59e5a46e2e4": {
-    "asset": 1490000188864,
-    "meta": 1490000188879,
+    "asset": 1490089590243,
+    "meta": 1490089590252,
     "relativePath": "Scene\\Main.fire"
   },
   "9055c384-a098-4cfd-8145-424736dcadc9": {
-    "asset": 1489999856301,
-    "meta": 1489999856461,
+    "asset": 1490089399505,
+    "meta": 1490089399613,
     "relativePath": "Script\\Main\\Main.js"
+  },
+  "8d8485b7-be88-4a4e-bb14-64069ab3dc5a": {
+    "asset": 1490089276978,
+    "meta": 1490089277068,
+    "relativePath": "Script\\Common\\Common.js"
+  },
+  "2ab84002-9ccd-49ef-a72d-d600975dd169": {
+    "asset": 1490089530766,
+    "meta": 1490089530794,
+    "relativePath": "Script\\Common\\Global.js"
   }
 }

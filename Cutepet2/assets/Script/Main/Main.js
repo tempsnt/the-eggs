@@ -1,35 +1,44 @@
+
+ var Com = require("Common");
+
 cc.Class({ //测试版本管理GIT 这是版本2
     extends: cc.Component,
-
+    //预制菜单栏
     properties: {
       target: {
       default: null,
       type: cc.Prefab,
       },
+    
+      //粒子效果
+      particle: cc.Node,  
+      //预制精灵
+      monsterPref: {
+            default: null,
+            type: cc.Prefab
+      },
+        
+      //精灵列表
+      nodeList: {
+            default: [],  //把他缺省为数组 
+            type: [cc.Node]
+      },
+      //按钮状态
+      //buttonflag:0,
+      
+      //拥挤度
+      crowd:0,
+      //硬币数量
+      coin:0,
     },
-
+    
     // use this for initialization
     start: function () {   
-    var scene = cc.director.getScene();
-    var node = cc.instantiate(this.target);
-
- var BG = this.node.getChildByName("BackGround");
- //node.parent = scene;
-  //console.log(label);
-    node.parent = BG;
-    node.setPosition(0,0);
-   
-    
-    node.scaleX =0.85;
-    node.scaleY =0.85;
-    //var w1 = node.getComponent(cc.Widget);
-   // var w1 = node.getComponentsInChildren(cc.Widget);
-    //console.log("Widget"+w1);
-//    w1.top=10;w1.left=50;w1.right=0;
-    //w1. isAlignHorizontalCenter=true;
- //   w1. horizontalCenter=0;
-    console.log(node.position.x+"-"+node.position.y);
-    
+     
+     Global.MainNode = this;    
+     //设置菜单栏
+      Com.common.setMenu(this);
+ 
 
 
     },
@@ -41,4 +50,8 @@ cc.Class({ //测试版本管理GIT 这是版本2
     // update: function (dt) {
 
     // },
+    born: function () {
+       Global.log("born");
+    },
+    
 });
