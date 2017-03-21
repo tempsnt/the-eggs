@@ -127,7 +127,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 360,
-      "height": 667
+      "height": 640
     },
     "_children": [],
     "_rotationX": 0,
@@ -191,11 +191,11 @@
     "node": {
       "__id__": 3
     },
-    "_enabled": true,
+    "_enabled": false,
     "isAlignOnce": true,
-    "_alignFlags": 42,
-    "_left": 0,
-    "_right": 0,
+    "_alignFlags": 0,
+    "_left": -7.5,
+    "_right": -7.5,
     "_top": -13.5,
     "_bottom": -13.5,
     "_verticalCenter": 0,
